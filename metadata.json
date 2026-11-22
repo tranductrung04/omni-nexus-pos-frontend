@@ -1,0 +1,6 @@
+{
+  "name": "Omni Nexus POS",
+  "description": "Hệ thống quản lý bán hàng đa cửa hàng, đa chi nhánh tối ưu cho thu ngân và vận hành bán lẻ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
